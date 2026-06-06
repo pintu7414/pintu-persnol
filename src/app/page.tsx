@@ -355,7 +355,7 @@ export default function Home() {
               {/* Profile Headshot */}
               <div className="pt-4">
                 <img
-                  src="/Pintu.jpg"
+                  src="/pintu.jpg"
                   alt="Pintu Singh"
                   className="w-full max-w-[260px] aspect-square object-cover rounded-2xl border border-white/10 shadow-2xl shadow-violet-950/15"
                 />
@@ -740,17 +740,17 @@ export default function Home() {
                   </div>
                   +91-9079187620
                 </a>
-                <a href="https://linkedin.com/in/Pintu02" target="_blank" rel="noreferrer" className="flex items-center gap-3 hover:text-white transition-colors group">
+                <a href="https://www.linkedin.com/in/pintu74" target="_blank" rel="noreferrer" className="flex items-center gap-3 hover:text-white transition-colors group">
                   <div className="w-8 h-8 rounded bg-white/5 border border-white/10 flex items-center justify-center text-slate-400 group-hover:text-white transition-colors">
                     <LinkedinIcon className="w-4 h-4" />
                   </div>
-                  linkedin.com/in/Pintu02
+                  linkedin.com/in/pintu74
                 </a>
-                <a href="https://github.com/Pintusingh" target="_blank" rel="noreferrer" className="flex items-center gap-3 hover:text-white transition-colors group">
+                <a href="https://github.com/pintu7414" target="_blank" rel="noreferrer" className="flex items-center gap-3 hover:text-white transition-colors group">
                   <div className="w-8 h-8 rounded bg-white/5 border border-white/10 flex items-center justify-center text-slate-400 group-hover:text-white transition-colors">
                     <GithubIcon className="w-4 h-4" />
                   </div>
-                  github.com/Pintusingh
+                  github.com/pintu7414
                 </a>
               </div>
             </div>
@@ -907,8 +907,8 @@ export default function Home() {
           </div>
 
           <div className="flex gap-6">
-            <a href="https://github.com/Pintusingh" target="_blank" rel="noreferrer" className="hover:text-white transition-colors">GitHub</a>
-            <a href="https://linkedin.com/in/Pintu02" target="_blank" rel="noreferrer" className="hover:text-white transition-colors">LinkedIn</a>
+            <a href="https://github.com/pintu7414" target="_blank" rel="noreferrer" className="hover:text-white transition-colors">GitHub</a>
+            <a href="https://www.linkedin.com/in/pintu74" target="_blank" rel="noreferrer" className="hover:text-white transition-colors">LinkedIn</a>
             <a href="mailto:pintu7414@gmail.com" className="hover:text-white transition-colors">Email</a>
           </div>
         </div>
